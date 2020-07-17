@@ -1,5 +1,5 @@
 # SQL Homework - Employee Database
-In this assignment, I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, I performed:
+In this assignment, I designed the tables that hold the data from CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, I performed:
 
 1. Data Modeling
 2. Data Engineering
